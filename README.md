@@ -1,2 +1,3 @@
 # data-structure
-Just note about data structute
+Just note about data structure
+ 
